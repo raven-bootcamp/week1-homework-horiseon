@@ -12,6 +12,7 @@ We are to adhere to the Scout Rule: always leave the code a little better / clea
 
 The accessibility standards of the website are viewed as important, and in need of improvement.  This also helps to optimize the website's searchability for a search engine such as Google.
 For the task, we are given a list of acceptance criteria.
+
 ## Acceptance Criteria
 ```
 GIVEN a webpage meets accessibility standards
