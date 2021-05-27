@@ -7,7 +7,7 @@
    https://github.com/raven-bootcamp/week1-homework-horiseon
 
 ## The Task
-Week 1's homework involves the refactorying (i.e. editing and improvement) of the code of the Horiseon website.
+Week 1's homework involves the refactoring (i.e. editing and improvement) of the code of the Horiseon website.
 We are to adhere to the Scout Rule: always leave the code a little better / cleaner than when you found it.
 
 The accessibility standards of the website are viewed as important, and in need of improvement.  This also helps to optimize the website's searchability for a search engine such as Google.
